@@ -1,0 +1,16 @@
+<div class="prize">
+    <div>
+        🎉 <strong>Parabéns!</strong> 🎉<br><br>
+
+        Você ganhou um<br>
+        <strong>cafuné antiestresse virtual</strong> 💆<br><br>
+
+        Caso persistam os sintomas,<br>
+        retire a versão presencial<br>
+        apresentando o código:<br><br>
+
+        <span style="font-size:32px;color:#e74c3c;">
+            CaFUN3
+        </span>
+    </div>
+</div>
